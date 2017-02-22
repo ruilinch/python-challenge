@@ -1,3 +1,6 @@
+# calculate 2^38 using decimal calculation. Include digitsAdd, digitsMultiply and power. 
+# Also include functions to convert decimal digit list to number, and number to decimal digit lists
+
 def numToDigits(a):
     # a is a number, return a as in a list of decimal digits
     a_digits = []
